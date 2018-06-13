@@ -53,7 +53,6 @@ ONOS_DRIVERS = [
 ONOS_PROVIDERS = [
     # Providers
     '//providers/host:onos-providers-host-oar',
-    '//providers/hostprobing:onos-providers-hostprobing-oar',
     '//providers/lldp:onos-providers-lldp-oar',
     '//providers/ovsdb:onos-providers-ovsdb-oar',
     '//providers/ovsdb/host:onos-providers-ovsdb-host-oar',
